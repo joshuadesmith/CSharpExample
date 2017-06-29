@@ -1,0 +1,10 @@
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/bin/Debug/netcoreapp1.1/LyndaConsoleApp.deps.json
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/bin/Debug/netcoreapp1.1/LyndaConsoleApp.runtimeconfig.json
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/bin/Debug/netcoreapp1.1/LyndaConsoleApp.runtimeconfig.dev.json
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/bin/Debug/netcoreapp1.1/LyndaConsoleApp.dll
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/bin/Debug/netcoreapp1.1/LyndaConsoleApp.pdb
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/obj/Debug/netcoreapp1.1/LyndaConsoleApp.csprojResolveAssemblyReference.cache
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/obj/Debug/netcoreapp1.1/LyndaConsoleApp.csproj.CoreCompileInputs.cache
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/obj/Debug/netcoreapp1.1/LyndaConsoleApp.AssemblyInfo.cs
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/obj/Debug/netcoreapp1.1/LyndaConsoleApp.dll
+/Users/joshuasmith/Projects/LyndaConsoleApp/LyndaConsoleApp/obj/Debug/netcoreapp1.1/LyndaConsoleApp.pdb
